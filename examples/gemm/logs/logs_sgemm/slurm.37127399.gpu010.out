@@ -1,0 +1,6 @@
+m=1045 n=1495 k=2166
+start benchmarking
+
+=============================Result===============================
+hand written kernel time 1.9393792152404785 ms
+cuBLAS              time 0.6908607959747315 ms
